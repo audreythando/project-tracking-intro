@@ -1,6 +1,6 @@
  Project tracking intro component
 
-Demo :
+Demo :https://audreythando.github.io/project-tracking-intro/
 
 Stack : HTML + CSS
 
